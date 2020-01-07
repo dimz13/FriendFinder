@@ -1,0 +1,17 @@
+.jumbotron{
+    background-image: url('silhouette-of-people-by-the-seashore-1387037.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    color: ghostwhite;
+ }
+
+ #survey-jumbotron{
+    background-image: url('questions-answers-signage-208494.jpg');
+    background-repeat: no-repeat;
+    background-position: center; 
+    background-size: cover;
+    color: ghostwhite;
+ }
+
+ 
